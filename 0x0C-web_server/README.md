@@ -18,3 +18,16 @@ Requirements:
 - Display Usage: 0-transfer_file PATH_TO_FILE IP USERNAME PATH_TO_SSH_KEY if less than 3 parameters passed
 - scp must transfer the file to the user home directory ~/
 - Strict host key checking must be disabled when using scp</td></tr>
+<tr>
+<td>
+</td>
+<td>Web servers are the piece of software generating and serving HTML pages, let’s install one!
+
+**Requirements:
+
+- Install nginx on your web-01
+- server
+- Nginx should be listening on port 80
+- When querying Nginx at its root / with a GET request (requesting a page) using curl, it must return a page that contains the string Hello World!
+- As an answer file, write a Bash script that configures a new Ubuntu machine to respect above requirements (this script will be run on the server itself)
+- You can’t use systemctl for restarting nginx</td>
