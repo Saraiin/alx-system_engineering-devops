@@ -20,7 +20,8 @@ Requirements:
 - Strict host key checking must be disabled when using scp</td></tr>
 <tr>
 <td>
-</td>
+1-install_nginx_web_server</td>
+
 <td>Web servers are the piece of software generating and serving HTML pages, let’s install one!
 
 **Requirements:
