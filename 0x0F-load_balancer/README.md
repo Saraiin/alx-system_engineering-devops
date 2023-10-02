@@ -1,7 +1,7 @@
 <h1>0x0F. Load balancer</h1>
 <table>
 <tr>
-<td>FILES</td><td> TASKS</td>
+<td>FILES</td><td> TASKS</td></tr>
 <td> 0. Double the number of webservers </td>
 <td> In this first task you need to configure web-02 to be identical to web-01. Fortunately, you built a Bash script during your web server project, and they’ll now come in handy to easily configure web-02. Remember, always try to automate your work!
 
