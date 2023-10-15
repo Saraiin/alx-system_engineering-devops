@@ -40,6 +40,15 @@ The diagram should show:
 - that the application server request data from the database</td>
 </tr>
 <tr>
+<td>2-contribution-to_what-happens-when_github_answer</td>
+<td> Folks on the Internet have been trying to put together a comprehensive answer to the question. Help them by submitting a pull request. Paste the link in your answer file.
+
+https://github.com/alex/what-happens-when#the-g-key-is-pressed
+
+Requirements:
+
+- The pull request must bring meaningful value (not a typo correction or style improvement)
+- Share the pull request URL in your answer file and in the field below
 </tr>
 </body>
 </table>
