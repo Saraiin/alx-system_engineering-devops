@@ -4,7 +4,7 @@
 <h3>Impact:</h3>
 WordPress service experienced intermittent outages during the specified duration.
 Users reported slow response times, with approximately 30% of users being affected.
-<h3>Root Cause:</h3> The file extension in the WordPress configuration file was inadvertently changed from .php to .phpp
+<h3>Root Cause:</h3> The file extension in the WordPress configuration file was changed from .php to .phpp
 <h2>Timeline:</h2>
 - 08:00 AM (UTC): Users reported that the WordPress service was doing the cha-cha slower than usual.<br>
 - 08:15 AM (UTC): Monitoring alerts got their groove on, signaling a party in the server room.<br>
