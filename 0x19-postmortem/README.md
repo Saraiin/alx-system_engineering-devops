@@ -14,4 +14,9 @@ Users reported slow response times, with approximately 30% of users being affect
 - 09:00 AM (UTC): Incident escalated to the system administration team.<br>
 - 09:15 AM (UTC): Decision made to roll back the file extension change.<br>
 - 09:30 AM (UTC): Service restored to normal operations.<br>
+<h2>Root Cause and Resolution:</h2>
+<h3>Root Cause:</h3>
+The issue stemmed from a Puppet script execution that inadvertently changed the file extension in the WordPress configuration file (/var/www/html/wp-settings.php) from .php to .phpp. This change disrupted the proper execution of PHP files, leading to slow response times and intermittent outages.
+<h3>Resolution:</h3>
+The incident was resolved by rolling back the file extension change. The following command was executed to correct the extension:
 
