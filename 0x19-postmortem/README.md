@@ -19,4 +19,5 @@ Users reported slow response times, with approximately 30% of users being affect
 The issue stemmed from a Puppet script execution that inadvertently changed the file extension in the WordPress configuration file (/var/www/html/wp-settings.php) from .php to .phpp. This change disrupted the proper execution of PHP files, leading to slow response times and intermittent outages.
 <h3>Resolution:</h3>
 The incident was resolved by rolling back the file extension change. The following command was executed to correct the extension:
-
+<br>
+<b>sed -i s/phpp/php/g /var/www/html/wp-settings.php </b>
