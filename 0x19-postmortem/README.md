@@ -20,4 +20,8 @@ The issue stemmed from a Puppet script execution that inadvertently changed the 
 <h3>Resolution:</h3>
 The incident was resolved by rolling back the file extension change. The following command was executed to correct the extension:
 <br>
-<b>sed -i s/phpp/php/g /var/www/html/wp-settings.php </b>
+<b>sed -i s/phpp/php/g /var/www/html/wp-settings.php </b> <br>
+This command replaced all instances of '.phpp' with '.php' in the WordPress configuration file, restoring the correct file extension and resolving the service disruption.
+<h2>Corrective and Preventive Measures</h2>
+- Code Review and Testing
+- Documentation Update 
