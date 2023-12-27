@@ -8,7 +8,8 @@
   </thead>
   <tbody>
     <tr><th> <b>Bash</b></th>
-  
+    </tr>
+    <tr>
     <td> <a href="https://github.com/Saraiin/alx-system_engineering-devops/tree/master/0x00-shell_basics"> Shell, basics</a></td>
     <td> <a href="https://github.com/Saraiin/alx-system_engineering-devops/tree/master/0x01-shell_permissions"> shell_permissions</a></td>
     <td><a href="https://github.com/Saraiin/alx-system_engineering-devops/tree/master/0x02-shell_redirections">Shell_redirections</a></td>
