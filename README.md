@@ -1,12 +1,11 @@
 <h1>System engineering devops 💻</h1>
 <p> In the section called <b>Alx System Engineering DevOps</b>, the goal was to learn about shell, Networking,  and gain control over servers.</p>
 <table>
-  <thead>
+  
     <tr><th>
       System engineering-devops</th>
     </tr>
-  </thead>
-  <tbody>
+
     <tr><th> <b>Bash</b></th>
     </tr>
     <tr>
@@ -16,5 +15,5 @@
     <td><a href=""> Shell, init files, variables and expansions</a></td>
     <td><a href="">Loops, conditions and parsing</a></td>
     <td><a href=""> Processes and signals </a></td>  </tr>
-  </tbody>
+ 
 </table>
