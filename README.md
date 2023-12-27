@@ -3,8 +3,10 @@
 <h1>Alx System Engineering DevOps</h1>
 
   <h2><b>Bash</b></td></h2>
-- <a href="https://github.com/Saraiin/alx-system_engineering-devops/tree/master/0x00-shell_basics">Shell, basics</a><br>
-- <a href="https://github.com/Saraiin/alx-system_engineering-devops/tree/master/0x01-shell_permissions">Shell permissions</a><br>
+- <a href="https://github.com/Saraiin/alx-system_engineering-devops/tree/master/0x00-shell_basics">Shell, basics</a>
+<br>
+- <a href="https://github.com/Saraiin/alx-system_engineering-devops/tree/master/0x01-shell_permissions">Shell permissions</a>
+<br/>
 - <a href="https://github.com/Saraiin/alx-system_engineering-devops/tree/master/0x02-shell_redirections">Shell redirections</a><br>
 - <a href="#">Shell, init files, variables, and expansions</a><br>
 - <a href="#">Loops, conditions, and parsing</a><br>
