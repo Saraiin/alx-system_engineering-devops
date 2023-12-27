@@ -1,5 +1,12 @@
-<h1>system engineering devops</h1>
-<h2> SHELL </h2>
-<h2> Networking basicss </h2>
-<h2> SSH </h2>
-<h2> WEB SERVER </h2>
+<h1>System engineering devops 💻</h1>
+<p> In the section called <b>Alx System Engineering DevOps</b>, the goal was to learn about shell, Networkin,  and gain control over servers.</p>
+<table>
+  <thead>
+    <td>
+      <th> System engineering-devops</th>
+    </td>
+  </thead>
+  <tbody>
+    <tr>System engineering & DevOps - Bash </tr>
+  </tbody>
+</table>
