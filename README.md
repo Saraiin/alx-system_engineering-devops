@@ -12,5 +12,8 @@
 - <a href="#">Loops, conditions, and parsing</a><br>
 - <a href="#">Processes and signals</a><br>
 
-
+ <h2><b>Scripting</b></h2>
+- Regular expression 
+- API 
+- API advanced 
 
