@@ -16,4 +16,22 @@
 - Regular expression <br>
 - API <br>
 - API advanced 
+ <h2><b>Networking</b></h2>
+ -  Networking basics #0 <br>
+ -  Networking basics #1 <br>
 
+  <h2><b> Security</b></h2>
+  - SSH <br>
+  - Firewall <br>
+
+  <h2><b>Web stack</b></h2>
+- Web infrastructure design <br>
+- Web server <br>
+- Load balancer <br>
+- HTTPS SSL <br>
+- What happens when you type google.com in your browser and press Enter <br> 
+- MySQL <br>
+- Webstack monitoring <br> 
+- Application server 
+💻
+ 
