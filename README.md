@@ -1,5 +1,5 @@
 <h1> Alx System engineering devops 💻</h1>
-<p> In the section called <b>Alx System Engineering DevOps</b>, the goal was to learn about shell, Networking,  and gain control over servers.</p>
+<p> In this section called <b>Alx System Engineering DevOps</b>, the goal was to learn about shell, Networking,  and gain control over servers.</p>
 <h1>System Engineering DevOps 📝:</h1>
 
   <h2><b>Bash</b></td></h2>
